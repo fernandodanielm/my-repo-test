@@ -1,7 +1,8 @@
 ---
 name: Reporte de Bug
 about: Reporte del problema encontrado
-label: bug
+labels: bug
+assignees: ''
 ---
 
 ## Descripción del problema
